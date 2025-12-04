@@ -5,3 +5,7 @@ const a=()=>{
 const b=()=>{
     console.log("world")
 }
+
+const c=()=>{
+    alert("cc")
+}
